@@ -1,8 +1,9 @@
-# ISC — Intelligent ??????? ????
+# ISC — Intelligent Systems Club
 
-Welcome to the **Intelligent Systems Club (ISC)** at ISIMS!
+# Welcome to the **Intelligent Systems Club (ISC)** at ISIMS!
 
 ## Members
 
-- ???
-- ???
+* Ayoub
+* Oussema
+
